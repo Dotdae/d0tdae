@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Oxygen Mono', monospace;
+    src: url('https://fonts.googleapis.com/css2?family=Oxygen+Mono&display=swap');
+}
